@@ -1,1 +1,1 @@
-# ghtk-woocommerce
+# GHTK for Woocommerce
